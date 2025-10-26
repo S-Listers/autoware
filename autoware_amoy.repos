@@ -36,7 +36,7 @@ repositories:
   universe/autoware_universe:
     type: git
     url: https://github.com/S-Listers/autoware_universe.git
-    version: main
+    version: team-dev-branch
   universe/external/tier4_ad_api_adaptor: # TODO(TIER IV): Migrate to AD API and remove this repository entry.
     type: git
     url: https://github.com/tier4/tier4_ad_api_adaptor.git
